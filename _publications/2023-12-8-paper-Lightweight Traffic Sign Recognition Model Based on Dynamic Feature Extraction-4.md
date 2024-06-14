@@ -1,8 +1,8 @@
 ---
 title: "Lightweight Traffic Sign Recognition Model Based on Dynamic Feature Extraction"
 collection: publications
-permalink: /publication/2023-12-8-paper-Lightweight Traffic Sign Recognition Model Based on Dynamic Feature Extraction-number-1
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2023-12-8-paper-Lightweight Traffic Sign Recognition Model Based on Dynamic Feature Extraction-number-4
+excerpt:  ''
 date: 2023-12-8
 venue: 'International Conference on Applied Intelligence'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'

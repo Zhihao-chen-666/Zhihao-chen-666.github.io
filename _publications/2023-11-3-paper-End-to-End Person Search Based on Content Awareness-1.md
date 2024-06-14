@@ -1,8 +1,8 @@
 ---
 title: "End-to-End Person Search Based on Content Awareness"
 collection: publications
-permalink: /publication/2023-11-3-paper-End-to-End Person Search Based on Content Awareness-number-1
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2023-11-3-paper-End-to-End Person Search Based on Content Awareness-1
+excerpt:  ''
 date: 2023-11-3
 venue: '2023 International Conference on Image Processing, Computer Vision and Machine Learning (ICICML)'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
