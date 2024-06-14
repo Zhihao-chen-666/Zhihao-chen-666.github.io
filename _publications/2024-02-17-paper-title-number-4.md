@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Part-Attention Based Model Make Occluded Person Re-Identification Stronger"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/2024-02-17-paper-Part-Attention Based Model Make Occluded Person Re-Identification Stronger-5
+excerpt: ''
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'International Joint Conference on Neural Networks (IJCNN)'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SBoHvVQAAAAJ&citation_for_view=SBoHvVQAAAAJ:zYLM7Y9cAGgC'
+citation: 'Chen Z, Ge Y. Part-Attention Based Model Make Occluded Person Re-Identification Stronger[J]. arXiv preprint arXiv:2404.03443, 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The goal of occluded person re-identification (ReID) is to retrieve specific pedestrians in occluded situations. However, occluded person ReID still suffers from background clutter and low-quality local feature representations, which limits model performance. In our research, we introduce a new framework called PAB-ReID, which is a novel ReID model incorporating part-attention mechanisms to tackle the aforementioned issues effectively. Firstly, we introduce the human parsing label to guide the generation of more accurate human part attention maps. In addition, we propose a fine-grained feature focuser for generating fine-grained human local feature representations while suppressing background interference. Moreover, We also design a part triplet loss to supervise the learning of human local features, which optimizes intra/inter-class distance. We conducted extensive experiments on specialized occlusion and regular ReID datasets, showcasing that our approach outperforms the existing state-of-the-art methods.
