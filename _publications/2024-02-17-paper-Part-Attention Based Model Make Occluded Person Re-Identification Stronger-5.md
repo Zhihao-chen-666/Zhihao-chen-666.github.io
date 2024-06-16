@@ -1,7 +1,7 @@
 ---
 title: "Part-Attention Based Model Make Occluded Person Re-Identification Stronger"
 collection: publications
-permalink: /publication/2024-02-17-Part-Attention Based Model Make Occluded Person Re-Identification Stronger-5
+permalink: /publication/2024-02-17-paper-Part-Attention Based Model Make Occluded Person Re-Identification Stronger-5
 excerpt: ''
 date: 2024-02-17
 venue: 'International Joint Conference on Neural Networks (IJCNN)'
