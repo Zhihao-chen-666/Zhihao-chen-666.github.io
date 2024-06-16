@@ -30,4 +30,4 @@ You can find my CV here:
 
 News
 ======
-Our latest work "MambaTSR: You Only Need 90k Parameters for Traffic Sign Recognition" has been accepted by Neurocomputing(JCR Q2 TOP) 🎉🎉🎉!
+Our latest work "MambaTSR: You Only Need 90k Parameters for Traffic Sign Recognition" has been accepted by Neurocomputing(JCR Q1) 🎉🎉🎉!
