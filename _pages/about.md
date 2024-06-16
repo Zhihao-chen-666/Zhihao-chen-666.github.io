@@ -21,7 +21,11 @@ You can find my CV here:
 
 [Email](mailto:2845764980@qq.com) / [Github](https://github.com/1024AILab) / [Wechat](../images/wechat.jpg)
 
+
+
 <div style="background-color: #d3edf8; padding: 10px; border-radius: 5px; color: #0000FF; font-family: Arial, sans-serif;">   I am currently preparing to apply for a Master's or Ph.D. program. If you have any relevant information or opportunities, please contact me at <span style="color: #B22222;">2845764980@qq.com</span>.Thank you ! </div>
+
+
 
 News
 ======
