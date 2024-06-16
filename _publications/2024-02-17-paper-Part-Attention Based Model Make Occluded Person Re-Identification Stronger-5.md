@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-Part-Attention Based Model Make Occluded Person Re-Identification Stronger-5
 excerpt: ''
 date: 2024-02-17
-venue: 'International Joint Conference on Neural Networks (IJCNN)'
+venue: 'International Joint Conference on Neural Networks (IJCNN CCF C)'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SBoHvVQAAAAJ&citation_for_view=SBoHvVQAAAAJ:zYLM7Y9cAGgC'
 citation: 'Chen Z, Ge Y. Part-Attention Based Model Make Occluded Person Re-Identification Stronger[J]. arXiv preprint arXiv:2404.03443, 2024.'
 ---

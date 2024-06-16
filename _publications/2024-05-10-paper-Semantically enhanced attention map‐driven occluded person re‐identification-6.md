@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-Semantically enhanced attention map‐driven occluded person re‐identification-6
 excerpt: ''
 date: 2024-02-17
-venue: 'International Joint Conference on Neural Networks (IJCNN)'
+venue: 'Electronics Letters (JCR Q4)'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SBoHvVQAAAAJ&citation_for_view=SBoHvVQAAAAJ:Y0pCki6q_DkC'
 citation: 'Ge Y, Yu M, Chen Z, et al. Semantically enhanced attention map‐driven occluded person re‐identification[J]. Electronics Letters, 2024, 60(9): e13217.'
 ---
