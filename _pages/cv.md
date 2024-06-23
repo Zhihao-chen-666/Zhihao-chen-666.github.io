@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
 
 Education
 ======
@@ -21,7 +19,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and exchange experience
+Service and Exchange Experiences
 ======
 * Served as a reviewer for the IEEE Signal Processing Letters (JCR Q2, 2024.02)
 * Served as a reviewer for the 2024 IEEE International Conference on Multimedia and Expo (CCF B, 2024.01)
