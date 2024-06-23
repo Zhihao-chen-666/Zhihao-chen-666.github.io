@@ -3,7 +3,7 @@ title: "Features Reconstraction Disentaglement Cloth-Changing Person Re-Identifi
 collection: publications
 permalink: /publication/2024-05-11-paper-Features Reconstraction Disentaglement Cloth-Changing Person Re-Identification-7
 excerpt: ''
-date: 2024-02-17
+date: 2024-05-11
 venue: '2024 International Conference on Intelligent Computing （ICIC 2024，CCF C, Oral)'
 paperurl: 'TBD'
 citation: 'TBD'

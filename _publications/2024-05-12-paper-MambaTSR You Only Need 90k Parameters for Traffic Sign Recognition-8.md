@@ -1,10 +1,10 @@
 ---
 title: "MambaTSR: You Only Need 90k Parameters for Traffic Sign Recognition"
 collection: publications
-permalink: /publication/2024-05-11-paper-MambaTSR You Only Need 90k Parameters for Traffic Sign Recognition-8
+permalink: /publication/2024-05-12-paper-MambaTSR You Only Need 90k Parameters for Traffic Sign Recognition-8
 excerpt: ''
-date: 2024-02-17
-venue: 'Neurocomputing (JCR Q2)'
+date: 2024-05-18
+venue: 'Neurocomputing (JCR Q1)'
 paperurl: 'TBD'
 citation: 'TBD'
 ---
