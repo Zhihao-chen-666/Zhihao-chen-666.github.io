@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. in School of Computer, Beijing Information Science & Technology University, 2021-Now
