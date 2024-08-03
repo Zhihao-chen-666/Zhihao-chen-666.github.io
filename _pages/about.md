@@ -14,12 +14,12 @@ I am very fortunate to be advised by [Master. Yiyuan Ge](https://scholar.google.
 
 You can find my CV here: 
 
-[Zhihao's Curriculum Vitae in Chinese](../assets/ch1.pdf)   
+[Zhihao's Curriculum Vitae in Chinese](../assets/ch11.pdf)   
 
-[Zhihao's Curriculum Vitae in English](../assets/en1.pdf).
+[Zhihao's Curriculum Vitae in English](../assets/en11.pdf).
 
 
-[Email](mailto:2845764980@qq.com) / [Github](https://github.com/1024AILab) / [Wechat](../images/wechat.jpg)
+[Email](mailto:2845764980@qq.com) / [Github](https://github.com/1024AILab) / [Wechat](../images/wechat.png)
 
 
 
